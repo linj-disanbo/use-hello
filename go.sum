@@ -1,0 +1,9 @@
+github.com/linj-disanbo/hello v1.0.0 h1:TuBmE3vQHGcYXjjAn3yUfTtxQLFfpRytGC+vrEeQ+5o=
+github.com/linj-disanbo/hello v1.0.0/go.mod h1:R4tJncjdsLaXJOnQOpAHjBaIyihab016BKmGDJmmV2Y=
+github.com/linj-disanbo/hello v1.0.0+incompatible/go.mod h1:Pe8/Czu/eQUinrrRltttk2r1HWUPdamaUxBANXVfBF0=
+github.com/linj-disanbo/hello v2.0.0+incompatible h1:JtV+eYUqgJox2aLG7KJJh0H5z0rDsAp8UIGFmqYxqms=
+github.com/linj-disanbo/hello v2.0.0+incompatible/go.mod h1:Pe8/Czu/eQUinrrRltttk2r1HWUPdamaUxBANXVfBF0=
+github.com/linj-disanbo/hello/v2 v2.0.0 h1:UV26ESMfPpRYWBAoqVgpVJYmBT9eP5MohcWCeQ9tMWU=
+github.com/linj-disanbo/hello/v2 v2.0.0/go.mod h1:NvSh52840gWo3HalWsKA6p/huYlPch6JtGoe0eEgaeo=
+github.com/linj-disanbo/hello/v3 v3.0.0 h1:3KOxVn+/HmktFzAeK9/Gra24ZVSahk9pI0ETqAYj3hE=
+github.com/linj-disanbo/hello/v3 v3.0.0/go.mod h1:mhDkARclVSEAlrpO5Le366xmsXOg77PKv/7A3yNyiVs=
